@@ -1,0 +1,27 @@
+h1{
+    color: rgb(239, 11, 11);
+}
+p{
+    color: rgb(240, 8, 193);
+}
+input{
+    color: rgb(159, 38, 220);
+}
+*{
+    background-color: rgb(0, 244, 211);
+}
+select{
+    color: rgb(0, 13, 255);
+    background-color: rgba(0, 255, 187, 0.762);
+}
+input{
+    color: blue;
+    background-color: rgba(0, 255, 187, 0.762);
+}
+button{
+    color: blue;
+    background-color: rgb(255, 73, 109);
+}
+button:hover{
+    background-color: red;
+}
